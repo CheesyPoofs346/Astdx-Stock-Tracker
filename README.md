@@ -1,4 +1,4 @@
 # Astdx-Stock-Tracker
-A python script designed to keep track of the stock in astdx without cheats
+A Python script designed to keep track of the stock in ASTDX without cheats
 
-this was made for pyrhon 3.12.8
+This was made for Python 3.12.8
